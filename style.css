@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.heading {
+    width: 25rem;
+    margin: auto;
+}
+
+.item {
+    border: 2px solid green;
+    border-radius: 11px;
+    width: 12rem;
+    padding: 0.7rem;
+    display: inline-block;
+    margin: 0px 1rem;
+}
+
+.item h5 {
+    text-align: center;
+}
+
+.item p {
+    text-align: center;
+}
+
+.butn {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.deleatrbtn {
+    /* position: relative;
+    top: 14px; */
+}
